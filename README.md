@@ -1,3 +1,3 @@
-# Fundamentos de programação -Lista 1. 
-Isabella Curcio
-
+# Fundamentos de programação 
+Isabella Curcio de Oliveira 
+Curso ADS
